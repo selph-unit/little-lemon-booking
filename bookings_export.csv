@@ -1,0 +1,21 @@
+booking_id,customer,table_name,booking_start,booking_end,num_guests,status,notes
+1,Aisha Noor,T1,2025-10-01 18:00:00,2025-10-01 20:00:00,2,Booked,Window
+2,Omar Khalid,T3,2025-10-01 19:00:00,2025-10-01 21:00:00,4,Booked,Birthday
+3,Lina Faris,T2,2025-10-01 20:00:00,2025-10-01 21:30:00,2,Cancelled,No-show
+4,Khaled Mansour,T4,2025-10-01 18:30:00,2025-10-01 20:00:00,4,Completed,Regular
+5,Fatima Ali,T5,2025-10-02 17:00:00,2025-10-02 19:00:00,6,Booked,Family dinner
+6,Hassan Ibrahim,T2,2025-10-02 18:30:00,2025-10-02 20:00:00,2,Booked,Couple
+7,Maryam Saeed,T1,2025-10-02 20:00:00,2025-10-02 22:00:00,2,Completed,Window seat
+8,Ali Hassan,T3,2025-10-02 21:00:00,2025-10-02 23:00:00,4,Cancelled,Late cancel
+9,Sara Mohamed,T4,2025-10-03 18:00:00,2025-10-03 20:00:00,4,Booked,Birthday
+10,Yousef Omar,T5,2025-10-03 19:00:00,2025-10-03 21:00:00,5,Booked,Business meeting
+11,Huda Nabil,T2,2025-10-03 20:00:00,2025-10-03 21:30:00,2,Completed,Anniversary
+12,Mahmoud Adel,T1,2025-10-03 21:00:00,2025-10-03 23:00:00,2,Booked,Late dinner
+13,Noora Saleh,T3,2025-10-04 18:00:00,2025-10-04 20:00:00,3,Booked,Friends
+14,Othman Kamal,T4,2025-10-04 19:30:00,2025-10-04 21:30:00,4,Cancelled,No-show
+15,Reem Taha,T2,2025-10-04 20:00:00,2025-10-04 22:00:00,2,Completed,Regular
+16,Kareem Fathy,T5,2025-10-04 21:00:00,2025-10-04 23:00:00,6,Booked,Family
+17,Laila Ahmed,T1,2025-10-05 18:00:00,2025-10-05 20:00:00,2,Completed,Regular
+18,Adel Fares,T3,2025-10-05 19:00:00,2025-10-05 21:00:00,4,Booked,Business
+19,Hind Saad,T2,2025-10-05 20:00:00,2025-10-05 22:00:00,2,Booked,Couple
+20,Mona Hassan,T4,2025-10-05 21:00:00,2025-10-05 23:00:00,4,Cancelled,Last minute
